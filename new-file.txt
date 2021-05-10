@@ -1,2 +1,3 @@
 MPU-RESOLUSI
 -konsisten untuk membuat resolusi
+-menambah resolusi
