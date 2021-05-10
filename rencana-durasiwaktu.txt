@@ -3,3 +3,4 @@ rencana durasi waktu
 15-25mnt
 10-20mnt
 10-15mnt
+<10mnt
