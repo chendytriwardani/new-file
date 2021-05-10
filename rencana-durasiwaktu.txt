@@ -4,3 +4,4 @@ rencana durasi waktu
 10-20mnt (singkat dan jelas)
 10-15mnt (singkat dan jelas)
 <10mnt (terlalu cepat)
+
