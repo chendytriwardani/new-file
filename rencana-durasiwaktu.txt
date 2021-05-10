@@ -1,6 +1,6 @@
 rencana durasi waktu
-20-30mnt
-15-25mnt
-10-20mnt
-10-15mnt
-<10mnt
+20-30mnt (terlalu lama)
+15-25mnt (lumayan oke)
+10-20mnt (oke)
+10-15mnt (oke)
+<10mnt (terlalu singkat)
